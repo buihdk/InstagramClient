@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 * [x] User can scroll through current popular photos from Instagram (5 points)
 * For each photo displayed, user can see the following details:
 * [x] Graphic, Caption, Username (2 points)
-* [x] (Optional) relative timestamp, like count, user profile image (3 points)
+* [x] Optional: relative timestamp, like count, user profile image (3 points)
 
 The following **optional** features are implemented:
 
