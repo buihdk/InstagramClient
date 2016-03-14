@@ -4,7 +4,7 @@
 
 Submitted by: **Khoa Bui**
 
-Time spent: 10 hours
+Time spent: 11 hours
 
 ## User Stories
 
@@ -38,6 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Challenges encountered while building the app:
+(To be updated)
 
 ## License
 
