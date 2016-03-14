@@ -11,9 +11,9 @@ Time spent: 10 hours
 The following **required** functionality is completed:
 
 * [x] User can scroll through current popular photos from Instagram 
-* [x] For each photo displayed, user can see the following details:
-** Graphic, Caption, Username (2 points)
-** (Optional) relative timestamp, like count, user profile image
+* For each photo displayed, user can see the following details:
+[x] Graphic, Caption, Username (2 points)
+[x] (Optional) relative timestamp, like count, user profile image
 
 The following **optional** features are implemented:
 
