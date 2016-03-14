@@ -1,6 +1,6 @@
 # InstagramClient
 
-**InstagramClient ** is an android app that allows a user to check out the most popular photos on Instagram
+**InstagramClient** is an android app that allows a user to check out the most popular photos on Instagram
 
 Submitted by: **Khoa Bui**
 
@@ -12,8 +12,8 @@ The following **required** functionality is completed:
 
 * [x] User can scroll through current popular photos from Instagram 
 * [x] For each photo displayed, user can see the following details:
-Graphic, Caption, Username (2 points)
-(Optional) relative timestamp, like count, user profile image
+** Graphic, Caption, Username (2 points)
+** (Optional) relative timestamp, like count, user profile image
 
 The following **optional** features are implemented:
 
