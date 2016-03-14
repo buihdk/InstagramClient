@@ -10,41 +10,34 @@ Time spent: 10 hours
 
 The following **required** functionality is completed:
 
-* [x] User can scroll through current popular photos from Instagram 
+* [x] User can scroll through current popular photos from Instagram (5 points)
 * For each photo displayed, user can see the following details:
-[x] Graphic, Caption, Username (2 points)
-[x] (Optional) relative timestamp, like count, user profile image
+* [x] Graphic, Caption, Username (2 points)
+* [x] (Optional) relative timestamp, like count, user profile image (3 points)
 
 The following **optional** features are implemented:
 
-* [x] Persist the todo items [into SQLite](http://guides.codepath.com/android/Persisting-Data-to-the-Device#sqlite) instead of a text file
-* [x] Improve style of the todo items in the list [using a custom adapter](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
-* [x] Add support for completion due dates for todo items (and display within listview item)
-* [ ] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
-* [ ] Add support for selecting the priority of each todo item (and display in listview item)
-* [x] Tweak the style improving the UI / UX, play with colors, images or backgrounds
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Advanced: Add pull-to-refresh for popular stream with SwipeRefreshLayout (1 point)
+* [ ] Advanced: Show latest comment for each photo (bonus: show last 2 comments) (1 point + 1 bonus) 
+* [ ] Advanced: Display each user profile image using a RoundedImageView (2 points)
+* [ ] Advanced: Display each user profile image using a RoundedImageView (2 points)
+* [ ] Advanced: Display a nice default placeholder graphic for each image during loading (read more about Picasso) (1 point)
+* [ ] Advanced: Improve the user interface through styling and coloring (1 to 5 points depending on the difficulty of UI improvements)
+* [ ] Bonus: Allow user to view all comments for an image within a separate activity or dialog fragment (3 points)
+* [ ] Bonus: Allow video posts to be played in full-screen using the VideoView (2 points)
+* [ ] Bonus: Apply the popular Butterknife annotation library to reduce view boilerplate. (1 point)
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/NhmkrfK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Challenges encountered while building the app:
-* Had some issues running the 'app' with other APIs besides API 23 
-    
-    Update: The issue was generated due to the readItems() statement in onCreate method when the app initially tried to read the list of items in a text file that didn't exist. The issue is now fixed after the implementation of SQLite.
-    
-* Figuring out how to use Intent and Extras took quite some time
-* Picking the right color combinations that can go well with the background image was hard
 
 ## License
 
